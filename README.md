@@ -1,4 +1,4 @@
-# Controle de Imposto de Renda
+# Contole de Imposto de Renda
 
 ## Descrição
 
