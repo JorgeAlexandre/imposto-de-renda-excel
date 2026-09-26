@@ -1,95 +1,56 @@
-# Controle de Investimentos em FIIs
+# Controle de Imposto de Renda
 
 ## Descrição
 
-Esta planilha foi desenvolvida para auxiliar no planejamento financeiro e na simulação de investimentos em Fundos Imobiliários (FIIs).
+Projeto desenvolvido em Microsoft Excel para auxiliar no controle e organização das informações necessárias para a Declaração do Imposto de Renda Pessoa Física (IRPF).
 
-A ferramenta permite calcular:
+A planilha foi criada para facilitar o registro e acompanhamento de informações financeiras ao longo do ano, permitindo maior organização na preparação da declaração anual.
 
-- Valor ideal para investimento mensal;
-- Patrimônio acumulado ao longo dos anos;
-- Estimativa de dividendos mensais;
-- Distribuição sugerida dos investimentos por perfil de investidor;
-- Simulações de crescimento patrimonial em diferentes horizontes de tempo.
+---
+
+## Objetivo
+
+Centralizar e organizar os dados utilizados na declaração do Imposto de Renda, reduzindo erros e facilitando a conferência das informações.
 
 ---
 
 ## Funcionalidades
 
-### Simulador de Investimentos
-
-O usuário informa:
-
-- Valor investido mensalmente;
-- Prazo do investimento (anos);
-- Taxa de rendimento mensal.
-
-A planilha calcula automaticamente:
-
-- Patrimônio acumulado;
-- Dividendos mensais estimados.
-
----
-
-### Cenários de Longo Prazo
-
-A planilha apresenta projeções para:
-
-- 2 anos;
-- 5 anos;
-- 10 anos;
-- 20 anos;
-- 30 anos.
-
----
-
-### Perfis de Investidor
-
-São disponibilizadas sugestões de alocação para:
-
-- Conservador
-- Moderado
-- Agressivo
-
-Distribuindo os recursos entre categorias de FIIs:
-
-- Papel
-- Tijolo
-- Híbridos
-- FOFs
-- Desenvolvimento
-- Hotelarias
+- Controle de rendimentos tributáveis
+- Registro de rendimentos isentos
+- Controle de despesas dedutíveis
+- Cadastro de dependentes
+- Controle de bens e direitos
+- Organização de informações para declaração anual
+- Resumo consolidado dos dados
 
 ---
 
 ## Tecnologias Utilizadas
 
 - Microsoft Excel
-- Fórmulas financeiras
-- Validação de dados
-- Tabelas de referência
+- Fórmulas e funções financeiras
+- Tabelas para consolidação de informações
+- Recursos de validação de dados
 
 ---
 
-## Estrutura da Planilha
+## Estrutura do Projeto
+imposto-de-renda/
 
-### Planilha1
-
-Responsável pela simulação dos investimentos e apresentação dos resultados.
-
-### Planilha2
-
-Tabela de apoio contendo os percentuais de distribuição por perfil de investidor.
+├── Imposto de Renda.xlsx
+├── README.md
+└── images/
 
 ---
 
 ## Como Utilizar
 
-1. Abra o arquivo `Controle de Investimentos.xlsx`.
-2. Informe o valor que deseja investir mensalmente.
-3. Escolha o prazo do investimento.
-4. Ajuste a taxa de rendimento mensal.
-5. Analise os resultados gerados automaticamente.
+1. Abra a planilha no Microsoft Excel.
+2. Preencha os dados financeiros nas abas correspondentes.
+3. Registre rendimentos, despesas e bens.
+4. Utilize os relatórios para conferência das informações.
+5. Utilize os dados organizados como apoio para o preenchimento da declaração.
 
 ---
 
@@ -97,4 +58,4 @@ Tabela de apoio contendo os percentuais de distribuição por perfil de investid
 
 Jorge Alexandre Pereira Santos
 
-Projeto desenvolvido para fins acadêmicos e demonstração de conhecimentos em Excel e planejamento financeiro.
+Projeto desenvolvido como atividade prática da DIO.
